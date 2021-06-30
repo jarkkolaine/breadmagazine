@@ -32,6 +32,11 @@ permalink: /breadmagazine/:year/:month/:day/:title/
 
 # Build settings
 theme: minima
+header_pages:
+  - articles/index.html
+  - issues/index.markdown
+  - newsletter-archive/index.html
+  - about/index.html
 plugins:
   - jekyll-feed
 
