@@ -39,7 +39,7 @@ In the first part of this series about [heirloom/heritage, ancient, and landrace
 
 You may have heard of different sorts of wheat flours, whether these are made out of soft/hard, and red/white wheat. Bread bakers readily get their flours from the marketplace -- they buy flours labelled as "bread flour" --, but not all bread flours are made equal.&nbsp;Understanding the specifics of grain classification, particularly that of wheat, will help you make better choices, and will allow you to better explain the differences to your customers.
 
-# Wheat is a grass
+## Wheat is a grass
 
 Humans have fed on plants, fruits, and animals for thousands of years. Wild plants have been part of its diet long before the agricultural revolution. The grains are the vehicule for the reproduction of these grasses. They contain the genes, the nutrients, and the energy to fuel the grain's growth into a new generation of plants. And these plants will again produce grains, which will turn into seeds, and the cycle continues on.
 
@@ -47,7 +47,7 @@ When hunter gatherers progressively managed to sow, grow, and harvest the grains
 
 In the 21st century, not only have these selections become very complex, they are also acccompanied by [research at the genetical, biological, and ecological levels](http://thebreadlab.wsu.edu/).
 
-# The families, tribes, and species of grains
+## The families, tribes, and species of grains
 
 In terms of grass classification, we make use of biological taxonomies which include: family, subfamily, tribe, species, and subspecies. These taxonomies serve to classify grasses and grains appropriately. This classification largely depends on the [genetical characteristics of grains and wheats](https://www.eatthispodcast.com/our-daily-bread-04/).
 
@@ -76,21 +76,21 @@ Barley is included in this tribe because it has evolved alongside its cousins (p
 
 In a general sense, all _Triticum_ species are wheats. Therefore, we have wheats, barley, and rye as part of a large tribe in which many characteristics are shared.
 
-# Hard/soft, red/white wheats are all Triticum aestivum
+## Hard/soft, red/white wheats are all Triticum aestivum
 
 Bread wheat (_Triticum aestivum_) is further classified into soft/hard, and white/red categories. And to further complexify things, wheat can be either "spring" or "winter," depending on when it is sown.
 
 Let's have a closer look at those wheats which are of interest for bread bakers.
 
-## Hard red/white winter wheat
+### Hard red/white winter wheat
 
 Wheat that is sown in fall is called "winter wheat" because the seed germinates right before the ground freezes. The sprouted grain will resume its growth when the weather heats up again in spring, and the grains will be ready for harvesting in July-August. This is the sort of wheat that's grown in locations which have gentle to quite intense winters (such as Northern Texas, eastern Colorado, Nebraska, and Kansas -- and Canada, including colder regions of Quebec).
 
-## Hard red spring wheat
+### Hard red spring wheat
 
 Wheat that is sown in spring is called "spring wheat." It's sown in spring, in locations with a long summer, a warmer and dryer weather, or where winters are very cold. The grains are ready for harvesting later in the following fall, in September-October. Places like Dakota, Minnesota, Montana, Alberta, Saskatchewan, and Manitoba are the home of spring wheat. In Quebec, for instance, you'll find both both spring and winter wheats.
 
-## Hard white wheat
+### Hard white wheat
 
 Hard white wheat does not possess the gene that gives red wheat its particular color, and its organoleptic profile. As [Jeffrey Hamelman writes in Bread]("https://amzn.to/2UvziRa), the bran of white wheat is, yes, you've guessed it, white. So when we mill whole white wheat, we obtain a flour that's whiter than a bolted or sifted flour made with red wheat, which we'd usually call "white (unbleached) flour." So the two types of flours that result from different wheats are not to be confused!
 
@@ -98,7 +98,7 @@ Hard white wheat is popular is China, where it is used to make noodles. For the 
 
 Globally, there are more than 20,000 known varieties of _T. aestivum_. Each year, agronomists, seed breeders, and farmers create new varieties either out of their labs or of their fields.
 
-## Durum wheat
+### Durum wheat
 
 Italians have developed many recipes to make bread out of durum wheat, but the main use of this sort of wheat is in pasta production. It contains high levels of protein.
 
