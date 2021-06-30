@@ -19,24 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bread Magazine
-email: your-email@example.com
+email: archive@bread-magazine.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Connecting People Through Bread. Online archive of all Bread Magazine content
+  created between 2012 and 2020.
 baseurl: "/breadmagazine" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 permalink: /breadmagazine/:year/:month/:day/:title/
 
 # Build settings
 theme: minima
 header_pages:
   - articles/index.html
-  - issues/index.markdown
+  - issues/index.html
   - newsletter-archive/index.html
-  - about/index.html
+  - about/index.markdown
 plugins:
   - jekyll-feed
 

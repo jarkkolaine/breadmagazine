@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Bread Magazine Archive
+publish: true
 ---
-
-# Bread Magazine Archive
 
 **Bread Magazine** was published from 2012 to 2020 as a digital magazine and blog about bread making,
 with the motto _"Connecting People Through Bread."_
