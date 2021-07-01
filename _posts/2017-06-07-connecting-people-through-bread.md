@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Connecting People Through Bread
-author: Bread Magazine
 excerpt:
     A call to empower ourselves and to connect with each other—through bread
     and baking.

@@ -3,15 +3,6 @@ layout: page
 status: publish
 published: true
 title: Articles
-author:
-    display_name: Jarkko Laine
-    login: jarkkolaine
-    email: jarkko@jarkkolaine.com
-    url: ""
-author_login: jarkkolaine
-author_email: jarkko@jarkkolaine.com
-wordpress_id: 2336
-wordpress_url: http://bread.magnetplatform.com/?page_id=2336
 date: "2016-03-30 08:51:17 +0300"
 date_gmt: "2016-03-30 08:51:17 +0300"
 categories: []
@@ -19,10 +10,18 @@ tags: []
 comments: []
 ---
 
-<ul>
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+<ul class="article-list">
 	{% for post in site.posts %}
 	<li>
-		<a href="/breadmagazine{{ post.url }}">{{ post.title }}</a>
+		<span class="link">
+			<a href="/breadmagazine{{ post.url }}">{{ post.title }}</a>
+		</span>
+		<span class="date">{{ post.date | date: date_format }} </span>
+		{% if post.author %}
+		<span class="author">• {{ post.author }}</span>
+		{% endif %}
 	</li>
 	{% endfor %}
 </ul>

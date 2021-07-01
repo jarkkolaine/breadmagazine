@@ -35,6 +35,8 @@ tags:
 comments: []
 ---
 
+![](/breadmagazine/assets/blog/Bread-Magazine-Vincent_van_Gogh_1853-1890_-_Wheat_Field_with_Crows_1890.jpg)
+
 In the first part of this series about [heirloom/heritage, ancient, and landrace grains](https://bread-magazine.com/heirloom-ancient-heritage-and-landrace-grains-are-they-all-the-same/), we discussed the terminology we use to describe these grains. In this article, we will address the biological dimension of these grains' evolution and characteristics.
 
 You may have heard of different sorts of wheat flours, whether these are made out of soft/hard, and red/white wheat. Bread bakers readily get their flours from the marketplace -- they buy flours labelled as "bread flour" --, but not all bread flours are made equal.&nbsp;Understanding the specifics of grain classification, particularly that of wheat, will help you make better choices, and will allow you to better explain the differences to your customers.

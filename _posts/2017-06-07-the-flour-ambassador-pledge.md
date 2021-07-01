@@ -24,6 +24,8 @@ tags:
     - wheat
 ---
 
+![Flour Ambassador Badge](/breadmagazine/assets/blog/AmbassadorHiRes.jpg)
+
 Dear friends and fans of flour,
 
 I invite you to become Flour Ambassadors. Since you are reading this, I know you are already representing our unnamed country. Loaf by loaf, pie by pie, baking escorts flour back into the good graces of people who are doubting gluten.

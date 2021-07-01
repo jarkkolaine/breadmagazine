@@ -32,11 +32,13 @@ tags:
 comments: []
 ---
 
+![](/breadmagazine/assets/blog/francois-thibeault-001-Andrew-Heyn-mockmill-wp-e1495312149741.jpg)
+
 By two o'clock in the afternoon, Blair Marvin and Andrew Heyn had finished baking bread at [Elmore Mountain Bread](http://www.elmoremountainbread.com/") (read the full story in Bread Magazine issue 21). Blair had gone to deliver the loaves to shops and customers. Andrew kept a watchful eye on two 5-kilos (11 lbs) rye loaves slowly baking in the oven. He was baking experimental loaves for [Jasper Hill Farm](http://www.jasperhillfarm.com/cheese-1/") (Vermont, United States), a farm that ripens a great variety of cheeses. The cheesemaker was going to inoculate the loaves with _Penicillium roqueforti_, the fungus needed to make Roquefort cheese. The loaves had to have a very moist crumb and a carbonized crust ([read more](http://www.recette-roquefort.fr/culture-papillon/le-secret-du-penicillium-roqueforti-papillon/")).
 
-![A five-kilo rye loaf that will be inoculated with Penicillium roqueforti](/breadmagazine/assets/blog/francois-thibeault-034-Andrew-Heyn-rye-penicillium-roqueforti-wp.jpg)
-
 As the bread baked in the oven, Andrew and I were talking about milling and fresh flour. I asked him how home bakers could start milling their own flour, and what they needed to know. Andrew had just received a brand new Mockmill (built by [Wolfgang Mock](http://www.wolfgangmock.com/en/)) which he had not yet pulled out of its box. We decided to give it a try and to record our observations as we examined the equipment and tested it with some grain.
+
+![A five-kilo rye loaf that will be inoculated with Penicillium roqueforti](/breadmagazine/assets/blog/francois-thibeault-034-Andrew-Heyn-rye-penicillium-roqueforti-wp.jpg)
 
 ## Installing the Mockmill
 

@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Sourdough, Heritage Grains, and a New Book
+subtitle: An Interview With Martin Fjeld from Ille Brød
 author: Jarkko Laine
 excerpt:
     An interview with Norwegian sourdough baker and bread-making book author

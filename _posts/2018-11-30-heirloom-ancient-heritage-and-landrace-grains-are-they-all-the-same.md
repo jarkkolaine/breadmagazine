@@ -22,6 +22,8 @@ tags:
 comments: []
 ---
 
+![](/breadmagazine/assets/blog/glenn-carstens-peters-112923-unsplash.jpg)
+
 In this article series on heirloom, ancient, heritage, and landrace grains, we'll investigate the origins, the usages, the differences, and the bread-making qualities of these grains.
 
 Lots of bread bakers believe these grains hold very interesting qualities under the current conditions of both grain breeding and farming, and of bread baking. For example, they are praised for their agricultural resilience, their nutritive value, and their flavor profiles. However, there's a problem: we may assume that heirloom, ancient, heritage, and landrace are synonymous to more "traditional," "authentic," "healthy," and "nutritive" varieties of bread-making cereals. And we oppose them to "modern," "industrialized," "hybridized," and "manipulated" sorts.

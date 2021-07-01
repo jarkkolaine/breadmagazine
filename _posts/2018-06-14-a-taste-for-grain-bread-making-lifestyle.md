@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: How to make bread that fits with your lifestyle?
+subtitle: Reflections from A Taste for Grain 2018 - Montréal (part 1)
 author: François Thibeault
 excerpt:
     'Inspirations gathered from day 1 of "A Taste for Grain," an event that gathers

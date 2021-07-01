@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: "From Earth to Hearth: The Art of Connections"
+subtitle: Reflections from A Taste for Grain 2018 - Montréal (part 2)
 author: François Thibeault
 date: "2018-06-15 12:50:46 +0300"
 date_gmt: "2018-06-15 09:50:46 +0300"
@@ -15,6 +16,8 @@ tags:
     - Nan Kohler
     - Roland Feuillas
 ---
+
+![Image courtesy of A Taste for Grain](/breadmagazine/assets/blog/Carte-postale.png)
 
 During my first day at [A Taste for Grain](http://atasteforgrain.ca/), I'd started reflecting deeply about the [role and importance that bread-making has in my life](https://bread-magazine.com/a-taste-for-grain-bread-making-lifestyle/). The second day of the event focused more on professionals than on the general public. I was anticipating great talks about the future of the grain economy, and about the role of the [farmer baker](https://bread-magazine.com/farmer-miller-baker-grande-suardiere-normandy/).
 

@@ -23,7 +23,9 @@ tags:
 comments: []
 ---
 
-Stanley Ginsberg. _The Rye Baker: Classic Breads from Europe and America_. New York: W. W. Norton &amp; Company, 2016. ISBN 978-0-393-24521-9. [Available on Amazon](http://amzn.to/2rPYvem).
+![Book Cover](/breadmagazine/assets/blog/rye-baker-cover-1.jpg)
+
+> Stanley Ginsberg. _The Rye Baker: Classic Breads from Europe and America_. New York: W. W. Norton &amp; Company, 2016. ISBN 978-0-393-24521-9. [Available on Amazon](http://amzn.to/2rPYvem).
 
 Roll up your sleeves and knead into Stanley Ginsberg's [The Rye Baker](http://amzn.to/2rPYvem) as it covers rye history and &mdash; even more importantly &mdash; how to get into good dough terms baking rye.
 
