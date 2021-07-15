@@ -18,3 +18,5 @@ This issue combines many of our favorite things: presenting bakers from around t
 -   A look into baker’s percentage in complex formulas.
 -   Nurhasanah Johari shares her experiences in running a subscription based micro bakery, Woodlands Sourdough, in her home in Singapore.
 -   Some outdoor bread making experiments to celebrate summer.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

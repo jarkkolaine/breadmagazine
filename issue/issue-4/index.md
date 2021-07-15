@@ -17,3 +17,5 @@ We turn our attention to the final step in bread making: baking the bread, ovens
 -   Interview with Tom Baker, a baker who runs a bakery and cookery school devoted to promoting real food and healthy living.
 -   A Christmas bread recipe.
 -   What happens when four brothers decide to build an oven without a plan?
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

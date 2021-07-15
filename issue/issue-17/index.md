@@ -17,3 +17,5 @@ We explore flour and milling, meet hard-working bakers who’ve made a living th
 -   A Baker’s Favorite Bread: Sinclair’s Bakery: In the second installment of “A Baker’s Favorite Bread”, we meet Mark Sinclair from Sinclair’s Bakery and get to try his famous Potato Bread recipe.
 -   Baking Sourdough Bread With Fresh Milled Flour: Maurizio Leo takes us on a journey to his first hand experiences from making sourdough bread using flour milled using his beautiful hand cranked flour mill.
 -   Country Sour With Fresh Milled Flour: A recipe for a traditional sourdough bread with just enough freshly milled flour to make it special.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

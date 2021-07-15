@@ -25,3 +25,7 @@ Thank you for the journey, and may your bread always rise!
 With gratitude,
 
 _François Thibeault and Jarkko Laine, editor-publishers_
+
+\*\*
+
+P.S. The move to this new site is still work in progress, so some articles and links are not fully functional yet. Feel free to explore, and check back later to find the rest.

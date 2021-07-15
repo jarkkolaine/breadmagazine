@@ -18,3 +18,5 @@ The second issue of Bread Magazine, published in 2012, is dedicated to flour: ho
 -   Ideas for some more exotic types of flour to try in your bread making.
 -   Introduction to home milling.
 -   Experiment: growing your own wheat (in a city apartment).
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

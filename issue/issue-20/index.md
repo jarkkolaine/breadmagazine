@@ -18,3 +18,5 @@ Artisanal Bread In the Marketplace, Microbes and Wheat, Buckwheat, Panettone, an
 -   **Panettone** Suzanne Dunaway’s memories lead you to the season for the Italian favorite, and her recipe gets you started with baking your own.
 -   **The Little Things That Sustain Us** Don Sadowsky takes you on a journey into the world of microbes, reporting on the most promising recent findings from microbiology labs and how they relate to wheat, bread and therefore our individual well-being.
 -   **Book Review**: Danielle Ellis reviews “Perfecting Sourdough” by Jane Mason.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

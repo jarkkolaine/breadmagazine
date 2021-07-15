@@ -22,3 +22,5 @@ After meeting inspiring people from master baker Jeffrey Hamelman to Bien Cuit�
 -   Exploring the Gluten Sensitivity Epidemic:
 -   Barbara ‘Elisi’ Caracciolo takes a good look into gluten sensitivity: what is it, why has it become so common today, and what can we do about it?
 -   Jeffrey Hamelman: In this interview, the beloved master baker talks about his journey to baking, why he enjoys being a baker, writing his book, and more.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

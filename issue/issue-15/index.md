@@ -18,3 +18,5 @@ We celebrate the humble but ever important joys that come with bread: baking bre
 -   An interview with BREAD Artisan Bakery, about what it means to be an artisan baker.
 -   Controlling temperature in bread making, with real-life experiences from Sam Henley from Baltic Bakehouse and Jesse Merrill from Polestar Hearth.
 -   An interview with Rowan Walker, a bearded baker delivering his home made bagels to the fine people of Edinburgh.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

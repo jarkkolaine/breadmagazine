@@ -21,3 +21,5 @@ In addition to rye — as usual — we meet great bakers from around the world, 
 -   An interview with Samuel Fromartz, the author of a new bread making book, In Search of the Perfect Loaf.
 -   An interview with Megan Forsyth, a home baker from Australia who bakes her bread in a barbecue. Unlike my outdoor baking experiments, her breads look awesome!
 -   An interview with Aaron Brunet, the MasterChef New Zealand winner from 2013 and a great baker whom you might remember from the “Bread Man” video we highlighted on our list of inspiring bread making videos a little while time ago.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

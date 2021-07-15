@@ -21,3 +21,5 @@ This issue explores milling: the craft, what you need to know about it, and its 
 -   A Baking Day with Yael Levi
 -   Digging Into Sourdough Culture with Ian Lowe
 -   Stanley Ginsberg. The Rye Baker: Classic Breads from Europe and America
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

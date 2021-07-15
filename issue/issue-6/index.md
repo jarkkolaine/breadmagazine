@@ -16,3 +16,5 @@ Flatbreads from all over the world — tortillas, pita, rieska, and so on. And a
 -   Oven Ready, a photo essay about Victoria Harley‘s visits to two brilliant real bread bakers.
 -   Dan McTiernan and Mick Saxton, both teachers in bread making, share their tips and experiences in teaching bread making.
 -   A recipe for the Finnish potato flatbread, rieska.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

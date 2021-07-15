@@ -17,3 +17,5 @@ An issue about the diversity of bread at all levels. From soil to the hearth, gr
 -   Tia Ingle – **Promise and Fulfilment**. An interview with author Chris Stafferton.
 -   François Thibeault – **Modernist Bread**. An Interview with Nathan Myhrvold and Francisco Migoya.
 -   François Thibeault – **Living Bread**: Tradition and Innovation in Artisan Bread Making. A review of Daniel Leader's most recent book.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

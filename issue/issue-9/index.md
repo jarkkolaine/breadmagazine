@@ -18,3 +18,5 @@ We think about flour: visits to two mills, one in Finland and one in the U.K., a
 -   A recipe for Gluten Free Buckwheat Artisan Bread.
 -   An interview with Richard Miscovich about making the most of a wood-fired oven.
 -   A story about a baker’s most beloved bakery tool: his hand-made unloading peel.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

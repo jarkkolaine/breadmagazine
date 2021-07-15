@@ -18,3 +18,5 @@ This issue is all about bakers and bakeries: what leads people to still start ne
 -   Zak Stern quit his pharmacology studies to apprentice around the world and learn to do something real with his hands. Now he runs an artisan bakery, Zak the Baker, in Miami, Florida.
 -   Tips for making your bread softer.
 -   An interview with Ben MacKinnon — owner of the E5 Bakehouse in London — about bread, becoming a baker, and following your dreams.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

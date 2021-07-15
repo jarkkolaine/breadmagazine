@@ -17,3 +17,5 @@ We all love a good loaf of bread — but in addition to this, bread can be a way
 -   Kneading Conference gathers bakers, millers, farmers, and oven builders for a weekend of learning and connection.
 -   How International Community Bakeries helps the poorest of poor build small bakeries.
 -   The One Mile Bakery has one strict principle: it will never deliver bread further than one mile from the bakery.
+
+**Note**: The PDF downloads are coming up, please check back a bit later.

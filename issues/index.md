@@ -11,6 +11,8 @@ author_email: jarkko@jarkkolaine.com
 
 Click on the links below to download PDF copies of the individual issues and read them on your computer.
 
+**Note**: The PDF downloads are coming up, please check back a bit later
+
 -   [Issue 1 — The Art Of Bread](/breadmagazine/issue/issue-1)
 -   [Issue 2 — Flour](/breadmagazine/issue/issue-2)
 -   [Issue 3 — Fermentation](/breadmagazine/issue/issue-3)
