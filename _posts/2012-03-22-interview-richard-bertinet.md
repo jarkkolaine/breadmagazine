@@ -1,7 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
+status: draft
+published: false
 title: "Interview: Richard Bertinet"
 author: Jarkko Laine
 date: "2012-03-22 08:52:37 +0200"

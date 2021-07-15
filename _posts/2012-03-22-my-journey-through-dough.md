@@ -16,6 +16,8 @@ tags:
     - Richard Bertinet
 ---
 
+![My copy of Dough, with some bread](/breadmagazine/assets/blog/bread-1-dough.jpg)
+
 I bought my copy of Richard Bertinet's book, [Dough](http://amzn.to/2p1GTqr), in July 2009.
 
 Right from the beginning, I took on the habit of marking a small cross next
