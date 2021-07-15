@@ -440,7 +440,7 @@ comments:
       content: Thanks so much! This is so helpful!
 ---
 
-![Scales](/breadmagazine/assets/blog/iStock_000013873774Small.jpg)
+![Scales](/assets/blog/iStock_000013873774Small.jpg)
 
 Most of the time, when I bake bread, I don't look at a recipe.
 

@@ -32,13 +32,13 @@ tags:
 comments: []
 ---
 
-![](/breadmagazine/assets/blog/francois-thibeault-001-Andrew-Heyn-mockmill-wp-e1495312149741.jpg)
+![](/assets/blog/francois-thibeault-001-Andrew-Heyn-mockmill-wp-e1495312149741.jpg)
 
 By two o'clock in the afternoon, Blair Marvin and Andrew Heyn had finished baking bread at [Elmore Mountain Bread](http://www.elmoremountainbread.com/") (read the full story in Bread Magazine issue 21). Blair had gone to deliver the loaves to shops and customers. Andrew kept a watchful eye on two 5-kilos (11 lbs) rye loaves slowly baking in the oven. He was baking experimental loaves for [Jasper Hill Farm](http://www.jasperhillfarm.com/cheese-1/") (Vermont, United States), a farm that ripens a great variety of cheeses. The cheesemaker was going to inoculate the loaves with _Penicillium roqueforti_, the fungus needed to make Roquefort cheese. The loaves had to have a very moist crumb and a carbonized crust ([read more](http://www.recette-roquefort.fr/culture-papillon/le-secret-du-penicillium-roqueforti-papillon/")).
 
 As the bread baked in the oven, Andrew and I were talking about milling and fresh flour. I asked him how home bakers could start milling their own flour, and what they needed to know. Andrew had just received a brand new Mockmill (built by [Wolfgang Mock](http://www.wolfgangmock.com/en/)) which he had not yet pulled out of its box. We decided to give it a try and to record our observations as we examined the equipment and tested it with some grain.
 
-![A five-kilo rye loaf that will be inoculated with Penicillium roqueforti](/breadmagazine/assets/blog/francois-thibeault-034-Andrew-Heyn-rye-penicillium-roqueforti-wp.jpg)
+![A five-kilo rye loaf that will be inoculated with Penicillium roqueforti](/assets/blog/francois-thibeault-034-Andrew-Heyn-rye-penicillium-roqueforti-wp.jpg)
 
 ## Installing the Mockmill
 
@@ -60,7 +60,7 @@ Regarding the mixer's speed, the flour was correct at medium speed, but there we
 
 ## The Test
 
-![Mockmill's hopper filled with Vermont Redeemer wheat](/breadmagazine/assets/blog/francois-thibeault-003-Andrew-Heyn-mockmill-wp.jpg)
+![Mockmill's hopper filled with Vermont Redeemer wheat](/assets/blog/francois-thibeault-003-Andrew-Heyn-mockmill-wp.jpg)
 
 In our test, we milled 500 g (18 oz) of grains in about 10 minutes, without interruption. We set the mill at the finest grind level that we could, which meant going beyond the smallest dot on the adjustment dial. The instructions explained that each Mockmill has its specificities and that the adjustment needs to be done on an individual basis, even if that means setting the dial beyond the marks.
 
@@ -70,7 +70,7 @@ Milling continuously at the highest speed and the finest grind level had an impa
 
 Regarding the milling temperature, Andrew said that milling colder grains could help to maintain a cooler flour temperature. Milling frozen grain straight out of the freezer, however, could create condensation in the mill and create a film (glaze) on the millstones. Grains kept in the refrigerator may not create as much condensation. So, dry, cold grain is the best solution.
 
-![Fresh stone-ground flour out of the Mockmill](/breadmagazine/assets/blog/francois-thibeault-002-Andrew-Heyn-mockmill-wp.jpg)
+![Fresh stone-ground flour out of the Mockmill](/assets/blog/francois-thibeault-002-Andrew-Heyn-mockmill-wp.jpg)
 
 ## Sifting and Extraction Rate
 
@@ -84,7 +84,7 @@ During our test with the Mockmill, the endosperm was not milled thoroughly, whic
 
 The finest flour came from setting the mill beyond the marks and running the stand mixer at the fastest speed. The millstones were slightly glazed after our test, because of flour that couldn't flow out of the mill before it started to heat up&mdash;but the stones can be easily cleaned by grinding grain at a coarser level (Mockmill provides cleaning instructions and videos).
 
-![Flour milled withh the Mockmill](/breadmagazine/assets/blog/francois-thibeault-033-Andrew-Heyn-mockmill-wp.jpg)
+![Flour milled withh the Mockmill](/assets/blog/francois-thibeault-033-Andrew-Heyn-mockmill-wp.jpg)
 
 Home bakers and artisanal bakers who want to mill their own flour will need to develop new skills in handling flour that is different from "bag" flour on many levels: gluten structure, hydration, aroma, and color. Due to the presence of germ and bran the nutritional value will also be different.
 

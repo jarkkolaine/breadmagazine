@@ -51,7 +51,7 @@ comments:
       content: This is a great idea! Who says baking has to be only in the kitchen?
 ---
 
-![Stick Bread](/breadmagazine/assets/blog/stick-bread.jpg)
+![Stick Bread](/assets/blog/stick-bread.jpg)
 
 The photo above, which you'll also find on our [latest issue's](https://bread-magazine.com/issue/issue-16/) cover, shows one of my favorite moments from this summer so far.
 

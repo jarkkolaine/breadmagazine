@@ -113,7 +113,7 @@ comments:
       content: This is wonderful information. It helped me a lot!
 ---
 
-![Sourdough Pita Bread](/breadmagazine/assets/blog/DSC_0046-1.jpg)
+![Sourdough Pita Bread](/assets/blog/DSC_0046-1.jpg)
 
 For a long time, pita bread was one of those things I thought must be made with yeast. I didn't think about it. I just assumed so because I had never come across with a pita recipe that used a sourdough starter.
 

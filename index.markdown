@@ -7,7 +7,7 @@ title: Bread Magazine Archive
 publish: true
 ---
 
-![Bread Magazine Logo](/breadmagazine/assets/bread-logo2-2x.png)
+![Bread Magazine Logo](/assets/bread-logo2-2x.png)
 
 **Bread Magazine** was published from 2012 to 2020 as a digital magazine and blog about bread making,
 with the motto _"Connecting People Through Bread."_

@@ -36,7 +36,7 @@ followers to improve in the craft of bread making.
 Now, in the form of their bread-making book, [Sourdough](http://sourdoughbook.com"), which was published in the
 UK last year, they are bringing their lessons to the international bread making community.
 
-![Sourdough Bookk](/breadmagazine/assets/blog/Sourdough-front-cover-Modern-Books-778x10241-1.jpg)
+![Sourdough Bookk](/assets/blog/Sourdough-front-cover-Modern-Books-778x10241-1.jpg)
 
 As a long time follower, I have been impressed by the way Casper and Martin
 combine heritage grains, high hydration, and long fermentation times to
@@ -169,7 +169,7 @@ Instagram posts. Why do the grains we use in bread matter?_
 main factors for us when choosing flour. The three don't always appear
 together, so you have to have some guiding principles.
 
-![Emmer sourdough bread crumb](/breadmagazine/assets/blog/illebrod1.jpg)
+![Emmer sourdough bread crumb](/assets/blog/illebrod1.jpg)
 
 Early on, we felt that we had the choice between stronger (often industrial
 and roller milled) flour that produces very expansive and

@@ -132,7 +132,7 @@ comments:
           course, I'll be writing about my visit at Mair's Bakehouse! Best wishes."
 ---
 
-![](/breadmagazine/assets/blog/poilane-bakery-edit2.jpg)
+![](/assets/blog/poilane-bakery-edit2.jpg)
 
 BREAD Magazine is currently reflecting on the nature of "artisanal" or "traditional" bread and on the differences between such bread and bread that is known as "industrial." Whether a definition of "artisanal" bread is possible or not is open to debate. That is why BREAD has sought to collect the thoughts of leaders in the artisanal bakery business as well as from within the industry (see [issue 20](https://bread-magazine.com/issues/)).
 
@@ -154,7 +154,7 @@ Here are Apollonia's views on the evolution of Poilâne bread, beginning with he
 
 "Each baker is thus responsible for each batch of breads that he produces. He can't say: 'It's this baker who didn't do his job properly.' He is responsible for this production from beginning to end. That's part of our brand. It also contributes to our quality control procedures."
 
-![A baker working the oven. © Maison Poilâne](/breadmagazine/assets/blog/poilane-oven-1024x687.jpg)
+![A baker working the oven. © Maison Poilâne](/assets/blog/poilane-oven-1024x687.jpg)
 
 I wondered how the manufacture in Bièvres, which produces more than 10,000 loaves per day, 24 hours a day, could actually be part of and support the craft tradition of bread making. Apollonia explained:
 
@@ -222,4 +222,4 @@ As a final word, Apollonia shared some advice based on her own personal feeling 
 
 The artisanal nature of bread is an open question. However, we can tackle it through an experience of the senses. That means going beyond mere thinking and reflection. We have to stop trying to convince ourselves about bread and experience it directly.
 
-![Poilâne bread coming out of the oven. © Maison Poilâne.](/breadmagazine/assets/blog/poilane-bread.jpg)
+![Poilâne bread coming out of the oven. © Maison Poilâne.](/assets/blog/poilane-bread.jpg)

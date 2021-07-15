@@ -32,7 +32,7 @@ comments:
           Let me know, thanks!
 ---
 
-![Bread made by kids](/breadmagazine/assets/blog/oivanleipa.jpg)
+![Bread made by kids](/assets/blog/oivanleipa.jpg)
 
 Both of my sons like to bake bread.
 

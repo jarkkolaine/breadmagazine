@@ -198,7 +198,7 @@ comments:
           Then shape, rise and steam. Honestly, just throw that b@$t@rd down on the bench... almost no effort.
 ---
 
-![Kneading hands](/breadmagazine/assets/blog/kneading-hands.jpg)
+![Kneading hands](/assets/blog/kneading-hands.jpg)
 
 When you think about the process of bread making, one of the first things that come to mind is probably working the dough -- or kneading, as it is commonly referred to. In this step, the ingredients get mixed evenly into a uniform mass we call the dough, but more importantly, kneading builds the gluten network that gives wheat bread its characteristic structure: the beautiful oven spring as well as all the air pockets in the bread's crumb.
 

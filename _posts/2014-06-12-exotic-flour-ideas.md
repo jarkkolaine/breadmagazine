@@ -139,7 +139,7 @@ comments:
       content: jarkko do you know where we could find a supplier of bark flour?
 ---
 
-![Barley bread](/breadmagazine/assets/blog/barley-1528172_1280.jpg)
+![Barley bread](/assets/blog/barley-1528172_1280.jpg)
 
 Beside water, flour is the most important ingredient in bread making -- about 60% of a basic white dough is flour. That's why small changes in the mixture of flours you use in your bread can have a clear impact on the bread you produce. Most of the time, we tend to go with bread flour made of wheat for its unbeatable gluten forming properties but the world of flour is huge and open for exploration: just figure out the right amount and you can put flour made with pretty much any type of grain into your bread.
 

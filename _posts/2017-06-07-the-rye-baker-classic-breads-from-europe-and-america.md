@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 
-![Book Cover](/breadmagazine/assets/blog/rye-baker-cover-1.jpg)
+![Book Cover](/assets/blog/rye-baker-cover-1.jpg)
 
 > Stanley Ginsberg. _The Rye Baker: Classic Breads from Europe and America_. New York: W. W. Norton &amp; Company, 2016. ISBN 978-0-393-24521-9. [Available on Amazon](http://amzn.to/2rPYvem).
 

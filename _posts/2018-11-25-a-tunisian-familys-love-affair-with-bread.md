@@ -29,7 +29,7 @@ Since my youngest age, I remember eating bread with my cousins, in my grandparen
 
 Bread has always been an essential and valued part of the Tunisian diet. Tunisians have a variety of sauces like mouloukhiya, [bean sauce](http://www.cuisinedefarida.com/archives/2012/07/27/24783614.html) or [chakchouka](http://www.geniuskitchen.com/recipe/tunisian-chakchouka-195474), that they eat with bread. In fact, bread in Tunisia has a long history dating back over thousands of years. The cultivation of cereals allowed Tunisia, to become a major Mediterranean power, wealthy and prosperous, nicknamed "Rome's bread basket" during the ancient times. The Tunisian people inherited and developed several varieties of bread since ancient times: _tabouna_, _mlawi_, _khobz ghaney_, _khozb zitoun_, _khobz abraj_.
 
-![Khobz Ghaney](/breadmagazine/assets/blog/Khobz-Ghaney.jpg)
+![Khobz Ghaney](/assets/blog/Khobz-Ghaney.jpg)
 
 The special place of bread in Tunisians' diet habits is due to economic factors especially poverty. In fact, before the Tunisian independence to the present day, very poor people who can't buy meat or vegetables, just eat bread and _harissa_ (a hot chili pepper paste).
 
@@ -45,7 +45,7 @@ Even adults, when a bit puckish, make _harissa_ sandwiches to fill the between-m
 
 _Tabouna_ is Tunisians' favorite and most ancient bread. It's my grandmother's specialty, who wakes up at dawn to prepare Tabouna, for breakfast. Tabouna is a traditional bread baked along the walls of a traditional terracotta oven, itself called _tabouna_. Made from flour, this bread has a round shape, fairly flattened. _Tabouna_ is mostly consumed in rural areas of Tunisia, however, during the holy month of Ramadan, most Tunisian people prefer _tabouna_ to the French baguette. This traditional bread dates from the Carthaginian era and is proved by a terracotta (representing the _tabouna_ oven) present at the Museum of Carthage.
 
-![Tabouna](/breadmagazine/assets/blog/Tabouna.jpg)
+![Tabouna](/assets/blog/Tabouna.jpg)
 
 Tunisians eat straight _tabouna_ with salads like [salata mishwiyya](http://globaltableadventure.com/recipe/tunisian-grilled-salad-with-tuna-salata-mishwiyya) (grilled salad) with tuna, with harissa or with grilled meat. Many traditional fast food restaurants use _tabouna_ to make sandwiches, which are very popular among Tunisian people. Ilhem, my childhood friend who usually goes on long car trips with her family, to various Tunisian areas, always buys _tabouna_ from sellers on the road.
 
@@ -55,7 +55,7 @@ _Mlawi_ is a delicious kind of crepe or galette, which can be found everywhere i
 
 "Every day, once classes are finished, we would always buy _mlawi_ with harissa and tuna, and eat it on our way home." said Yassine, my cousin. "It's cheap and very delicious. There are generally long queues in _mlawi_ restaurants, especially during the school year."
 
-![Mlawi](/breadmagazine/assets/blog/Mlawi-1-300x225.jpg)
+![Mlawi](/assets/blog/Mlawi-1-300x225.jpg)
 
 _Khobz ghaney_ is one of the most ancient Tunisian breads and peasants' favourite bread. My great-grandmother, a peasant woman, always used to cook _khobz ghaney_ for her meals.
 
@@ -63,7 +63,7 @@ _Khobz ghaney_ is one of the most ancient Tunisian breads and peasants' favourit
 
 _Khobz ghaney_ is prepared with fine semolina, oil, salt, sugar, yeast and warm water. It is thick, smooth and very mellow. It is easily chewed and swallowed, which makes people eat lots of it, without noticing. _khobz ghaney_ takes its name from the oven in which it is prepared, which is called _ghaney_. It's a terracotta oven, and Tunisians usually put small stones at its bottom. _Khobz ghaney_ has originated &mdash; and is most consumed &mdash; in rural areas.
 
-![Khobz Ghaney in the terracotta oven](/breadmagazine/assets/blog/Khobz-Ghaney-in-the-terracotta-oven-300x225.jpg)
+![Khobz Ghaney in the terracotta oven](/assets/blog/Khobz-Ghaney-in-the-terracotta-oven-300x225.jpg)
 
 One of the most loved bread is _khobz zitoun_, "olive bread". _Khobz zitoun_ is made of basic bread ingredients and has a lot of olives (green and black), onion and dry herbs. These extra ingredients give it a rich and aromatic flavor. Generally, people eat _khobz zitoun_ during the holy month of Ramadan because it wets the appetite along with salads.
 

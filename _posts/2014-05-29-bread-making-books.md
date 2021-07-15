@@ -580,7 +580,7 @@ comments:
           However, it is worth the money.  It is the book I keep going back to.
 ---
 
-![Bread-making Books](/breadmagazine/assets/blog/bread-making-books.jpg)
+![Bread-making Books](/assets/blog/bread-making-books.jpg)
 
 As I have hinted at before, if there is one thing I love even more than bread, that's books. And one type of books in particular: _bread making books_.
 

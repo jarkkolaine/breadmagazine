@@ -17,7 +17,7 @@ tags:
     - Roland Feuillas
 ---
 
-![Image courtesy of A Taste for Grain](/breadmagazine/assets/blog/Carte-postale.png)
+![Image courtesy of A Taste for Grain](/assets/blog/Carte-postale.png)
 
 During my first day at [A Taste for Grain](http://atasteforgrain.ca/), I'd started reflecting deeply about the [role and importance that bread-making has in my life](https://bread-magazine.com/a-taste-for-grain-bread-making-lifestyle/). The second day of the event focused more on professionals than on the general public. I was anticipating great talks about the future of the grain economy, and about the role of the [farmer baker](https://bread-magazine.com/farmer-miller-baker-grande-suardiere-normandy/).
 
@@ -55,7 +55,7 @@ Mai concludes, "It's not about you personally, it's a society that invests in wh
 
 ## Roland Feuillas: building the world one seed at a time
 
-![Gwenaëlle Reyt, Roland Feuillas (Les maitres de mon moulin), and Simon Duval-Matte (Les grains du Val). Photo: François Thibeault](/breadmagazine/assets/blog/P1010435-1024x685.jpg)
+![Gwenaëlle Reyt, Roland Feuillas (Les maitres de mon moulin), and Simon Duval-Matte (Les grains du Val). Photo: François Thibeault](/assets/blog/P1010435-1024x685.jpg)
 
 Roland Feuillas, from [Les maitres de mon moulin](http://www.farinesdemeule.com/) (France), expressed deep feelings about the sacredness of Bread, written with a capital "B." He restored a windmill that was originally built in 1211. From the mill to the oven, from the flour to the loaf of bread, from the wheat grains to the seeds, he is engaged fully and deeply in the revitalization of an earth-to-hearth connection. Roland believes that bakers should possess their own mills, to create breads that are made with 100% natural wheats.
 

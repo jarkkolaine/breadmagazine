@@ -66,7 +66,7 @@ comments:
           This whole article seems to miss the point.
 ---
 
-![](/breadmagazine/assets/blog/gluten.jpg)
+![](/assets/blog/gluten.jpg)
 
 I'm sure we've all heard people without celiac disease tell us "I can't eat bread!" or "Gluten makes me feel sick." And as lovers and makers of bread, we've had a hard time choosing a proper response. Unable to accept that our favorite foodstuff could be to blame, we have asked ourselves if the issue could be in their heads instead...
 

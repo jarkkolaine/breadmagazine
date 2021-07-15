@@ -22,8 +22,8 @@ comments: []
 
 On a freezing day in January 2016, together with a group of home bakers from Helsinki, I visited Veckoski Andersb&ouml;le Vetekvarn, a small family-run mill built in 1934 in Porvoo, Finland. The warm winter light was magical.
 
-![](/breadmagazine/assets/blog/jarkko-laine-porvoo-mill-finland-4_w-682x1024.jpg)
+![](/assets/blog/jarkko-laine-porvoo-mill-finland-4_w-682x1024.jpg)
 
-![](/breadmagazine/assets/blog/jarkko-laine-porvoo-mill-finland-2_w-1024x682.jpg)
+![](/assets/blog/jarkko-laine-porvoo-mill-finland-2_w-1024x682.jpg)
 
-![](/breadmagazine/assets/blog/jarkko-laine-porvoo-mill-finland-1_w-682x1024.jpg)
+![](/assets/blog/jarkko-laine-porvoo-mill-finland-1_w-682x1024.jpg)

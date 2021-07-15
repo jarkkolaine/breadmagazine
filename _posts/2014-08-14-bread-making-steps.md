@@ -133,7 +133,7 @@ comments:
           sites to be immensely useful: Bread Magazine, The Fresh Loaf, [&#8230;]"
 ---
 
-![](/breadmagazine/assets/blog/DSC_0127.jpg)
+![](/assets/blog/DSC_0127.jpg)
 
 Making a great loaf of bread is a process that takes time -- from the few hours to make a quick yeasted bread to up to 48 or more when working on slow fermented sourdough breads -- so it's usually a good idea to plan ahead a little bit. And in order to plan well, knowing all the steps involved in the project you are about to start helps a lot.
 

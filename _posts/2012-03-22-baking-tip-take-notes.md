@@ -15,7 +15,7 @@ tags:
     - Tips
 ---
 
-![Some of my early notes](/breadmagazine/assets/blog/bread-1-notes.jpg)
+![Some of my early notes](/assets/blog/bread-1-notes.jpg)
 
 In my bookshelf, right next to all the baking books, I have a collection of
 small notebooks, full of notes of my bread-making experiments.

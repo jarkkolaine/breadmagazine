@@ -32,7 +32,7 @@ comments:
           Jaime
 ---
 
-![Bread from Senegal](/breadmagazine/assets/blog/DSC_1064.jpg)
+![Bread from Senegal](/assets/blog/DSC_1064.jpg)
 
 A bit over a week ago, I returned from a trip to the land of white bread, Senegal.
 

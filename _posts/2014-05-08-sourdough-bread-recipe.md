@@ -374,7 +374,7 @@ comments:
           to think maybe it has more to do with the length, or lack of proving time.\r\n\r\nTerry"
 ---
 
-![Sourdough Bread](/breadmagazine/assets/blog/DSC_0017.jpg)
+![Sourdough Bread](/assets/blog/DSC_0017.jpg)
 
 [Creating your sourdough starter](https://bread-magazine.com/sourdough-starter-tutorial/) (or receiving it from a friend or buying it) is just the first step on a long journey with great bread. A journey that can span decades and continue for generations to come.
 

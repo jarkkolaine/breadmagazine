@@ -155,7 +155,7 @@ comments:
           Am I right?
 ---
 
-![Photo by Francis Storr, CC BY-SA 2.0](/breadmagazine/assets/blog/5201841233_aa927004c2_b-1024x675-1.jpg)
+![Photo by Francis Storr, CC BY-SA 2.0](/assets/blog/5201841233_aa927004c2_b-1024x675-1.jpg)
 
 If you have ever tasted a good sourdough bread, maybe you have asked yourself the question: "How can I make bread like this myself?"
 

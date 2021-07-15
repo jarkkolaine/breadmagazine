@@ -24,7 +24,7 @@ tags:
     - wheat
 ---
 
-![Flour Ambassador Badge](/breadmagazine/assets/blog/AmbassadorHiRes.jpg)
+![Flour Ambassador Badge](/assets/blog/AmbassadorHiRes.jpg)
 
 Dear friends and fans of flour,
 

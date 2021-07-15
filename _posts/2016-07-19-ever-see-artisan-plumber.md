@@ -89,7 +89,7 @@ comments:
           in [&#8230;]"
 ---
 
-![An artisan at work](/breadmagazine/assets/blog/artisan.jpg)
+![An artisan at work](/assets/blog/artisan.jpg)
 
 As someone who has earned his livelihood as a baker for just about four decades, I've seen some interesting trends develop in our trade. One trend has been the increasing use of the term "artisan" by a segment of bakers, as if the term somehow elevates their skill or their product line at the same time as it separates them from some other group of woefully "non-artisan" bakers. Lengthy discussions have taken place about the definition of "artisan bread" and "artisan baker."
 

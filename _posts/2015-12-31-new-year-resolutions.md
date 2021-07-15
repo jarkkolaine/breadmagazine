@@ -95,7 +95,7 @@ comments:
           uutta vuotta (not that I speak Finish, but hurray for Google Translate)"
 ---
 
-![Happy New Year](/breadmagazine/assets/blog/light-person-woman-fire-scaled-1.jpg)
+![Happy New Year](/assets/blog/light-person-woman-fire-scaled-1.jpg)
 
 At the end of the year, most people like to look back and analyze the past year while planning what to do differently the next. Some of the decisions stick, many don't. But either way, New Year's resolutions are a checkpoint to see if your desires and actions match and if there's something you might want to do differently in the coming year.
 

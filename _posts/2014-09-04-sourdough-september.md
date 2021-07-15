@@ -82,7 +82,7 @@ comments:
           to your site as a resource for our blog as well!  There's some great advice here.
 ---
 
-![Sourdough September](/breadmagazine/assets/blog/SourdoughSeptemberLogo21.jpg)
+![Sourdough September](/assets/blog/SourdoughSeptemberLogo21.jpg)
 
 If you ask any member or fan of UK's [Real Bread Campaign](http://realbreadcampaign.org/), September is the month of sourdough -- and therefore one of the most exciting months of the year. It's Sourdough September!
 

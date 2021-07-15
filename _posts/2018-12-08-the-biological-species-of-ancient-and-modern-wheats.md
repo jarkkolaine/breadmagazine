@@ -35,7 +35,7 @@ tags:
 comments: []
 ---
 
-![](/breadmagazine/assets/blog/Bread-Magazine-Vincent_van_Gogh_1853-1890_-_Wheat_Field_with_Crows_1890.jpg)
+![](/assets/blog/Bread-Magazine-Vincent_van_Gogh_1853-1890_-_Wheat_Field_with_Crows_1890.jpg)
 
 In the first part of this series about [heirloom/heritage, ancient, and landrace grains](https://bread-magazine.com/heirloom-ancient-heritage-and-landrace-grains-are-they-all-the-same/), we discussed the terminology we use to describe these grains. In this article, we will address the biological dimension of these grains' evolution and characteristics.
 
@@ -53,7 +53,7 @@ In the 21st century, not only have these selections become very complex, they ar
 
 In terms of grass classification, we make use of biological taxonomies which include: family, subfamily, tribe, species, and subspecies. These taxonomies serve to classify grasses and grains appropriately. This classification largely depends on the [genetical characteristics of grains and wheats](https://www.eatthispodcast.com/our-daily-bread-04/).
 
-![Source: Wikimedia Commons](/breadmagazine/assets/blog/triticum.jpg)
+![Source: Wikimedia Commons](/assets/blog/triticum.jpg)
 
 The grass family itself, and as a whole, is called _Poaceae_ in Latin.
 
@@ -116,13 +116,13 @@ The German root of the word "einkorn" refers to "one grain," that is the one gra
 
 Einkorn originated in the Fertile Croissant and Caucasus. It was domesticated 10,000 years ago. It is currently grown in Western Europe, and its yield is way lesser than that of bread wheat.
 
-![Source: Wikimedia Commons](/breadmagazine/assets/blog/einkorn.jpg)
+![Source: Wikimedia Commons](/assets/blog/einkorn.jpg)
 
 # Emmer
 
 Emmer (_T. turgidum_) was the most "popular" wheat 10,000 to 4,000 years ago. It was cultivated to make flat breads and most probably beer. In 19th century France, it was used to make bread. Currently, it is grown sporadically in Eastern Europe, the Middle East, India, and Ethiopia.
 
-![Source: Wikimedia Commons](/breadmagazine/assets/blog/emmer.jpg)
+![Source: Wikimedia Commons](/assets/blog/emmer.jpg)
 
 # Spelt
 
@@ -130,13 +130,13 @@ Spelt (_T. spelta_) has a genome that's closer to bread wheat (_T. aestivum_) th
 
 Einkorn, emmer and spelt all have their grains covered with a [hull](https://www.eatthispodcast.com/our-daily-bread-06/). So, dehulling them adds an extra cost and time. These grains are not so popular among large-scale farmers, and because of these extra operations, they sell at a much higher price.
 
-![Source: Wikimedia Commons](/breadmagazine/assets/blog/spelt.jpg)
+![Source: Wikimedia Commons](/assets/blog/spelt.jpg)
 
 # Khorasan
 
 Khorasan (_T. turanicum_) is the name of a province in Iran, where the specie originated. The grain has been trademarked as [Kamut](https://www.eatthispodcast.com/our-daily-bread-07/) (supposedly "wheat" in Egyptian) in the United States. It has been grown for the last 40 years, mostly through organic agriculture. Khorasan is similar to durum wheat, contains high levels of proteins (but poor gluten quality), but its grains are much bigger.
 
-![Source: Wikimedia Commons](/breadmagazine/assets/blog/kamut.jpg)
+![Source: Wikimedia Commons](/assets/blog/kamut.jpg)
 
 # Rye
 
@@ -144,7 +144,7 @@ Rye (_Secale cereale_) has been used traditionally in many bread-making cultures
 
 To add up to the challenge, rye contains lots of enzymatic activity. Many bread bakers keep a rye starter, because such a starter will remain very active under difficult conditions. Bread bakers must use acidic and lactic sourdough fermentations to control for the deterioration of starches under enzymatic activity. If you're into rye bread, the ultimate reference is [The Rye Baker](https://amzn.to/2L3SIIF), by Stanley Ginsberg.
 
-![Source: Wikimedia Commons](/breadmagazine/assets/blog/rye.jpg)
+![Source: Wikimedia Commons](/assets/blog/rye.jpg)
 
 # Further study
 

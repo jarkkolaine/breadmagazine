@@ -135,7 +135,7 @@ comments:
       content: Bay leaves discourage weevils. Even in Florida.
 ---
 
-![Photo by Artem Storozhenko.](/breadmagazine/assets/blog/mockmill-test-1.jpg)
+![Photo by Artem Storozhenko.](/assets/blog/mockmill-test-1.jpg)
 
 "I never realized flour too is a fresh product," my wife said to me as she mixed a cookie dough using home milled spelt flour, visibly excited about how different it smelled and felt compared to store-bought white flour.
 
@@ -181,7 +181,7 @@ As I hesitated, he continued to explain that Wolfgang Mock was the _"Wo"_ in HaW
 
 Paul told me that after thirty-five years designing and making home mills, Wolfgang Mock had now created a mill attachment to stand mixers that they believe will bring milling to a much wider audience than ever before.
 
-![Grains of spelt ready for milling.](/breadmagazine/assets/blog/grains_720.jpg)
+![Grains of spelt ready for milling.](/assets/blog/grains_720.jpg)
 
 I was eager to hear more, so they sent me a mill for testing.
 
@@ -231,7 +231,7 @@ At first, I attributed this to the different grains I was using, and I'm still s
 
 If you've been following my writing for a while, you probably know that I'm a big fan of white bread. So, when I say that I now enjoy whole-grain bread in a whole new way, it's a big change for me. The added boost in taste that I get from using freshly milled flour just makes the bread so much more interesting to me.
 
-![Wheat ground at two different coarseness levels.](/breadmagazine/assets/blog/flours3_720.jpg)
+![Wheat ground at two different coarseness levels.](/assets/blog/flours3_720.jpg)
 
 #### 2. Sourcing Grain Takes Work But Can Be Fun
 

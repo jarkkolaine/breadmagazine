@@ -172,7 +172,7 @@ comments:
           to bake it anyway though. Who knows, might be small but tasty. ?
 ---
 
-![](/breadmagazine/assets/blog/DSC_0036.jpg)
+![](/assets/blog/DSC_0036.jpg)
 
 Bread making has been around for centuries, even thousands of years, so one would imagine that there isn't all that much left in the craft to innovate with -- in all that time, surely everything has been tried and tested already.
 

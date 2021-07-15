@@ -46,7 +46,7 @@ Albert Elbilia, from [](http://www.mercilavie.co/)Merci la vie bakery, decided e
 
 As bakers, we can play a great role in creating new sorts of relationships in our community. That's because bread has the power to bring us back to that place that's truly human.
 
-![Seth Gabrielse (Automne Boulangerie), Fabrizia Rollo (Fabrizia) and Ariane Maurice (Patisserie Bicyclette) discussing with Geneviève Vézina-Montplaisir (Magazine Caribou)](/breadmagazine/assets/blog/P1010417.jpg)
+![Seth Gabrielse (Automne Boulangerie), Fabrizia Rollo (Fabrizia) and Ariane Maurice (Patisserie Bicyclette) discussing with Geneviève Vézina-Montplaisir (Magazine Caribou)](/assets/blog/P1010417.jpg)
 
 ## Building a taste for whole-grains
 

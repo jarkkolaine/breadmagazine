@@ -234,7 +234,7 @@ comments:
           take on this?"
 ---
 
-![A loaf of bread](/breadmagazine/assets/blog/DSC_0080.jpg)
+![A loaf of bread](/assets/blog/DSC_0080.jpg)
 
 There are three amazing things about bread. No... Actually there are many more amazing things than just three -- but these three are some of the most important ones:
 

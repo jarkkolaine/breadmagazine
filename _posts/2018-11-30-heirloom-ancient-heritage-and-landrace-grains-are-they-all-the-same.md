@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 
-![](/breadmagazine/assets/blog/glenn-carstens-peters-112923-unsplash.jpg)
+![](/assets/blog/glenn-carstens-peters-112923-unsplash.jpg)
 
 In this article series on heirloom, ancient, heritage, and landrace grains, we'll investigate the origins, the usages, the differences, and the bread-making qualities of these grains.
 
@@ -88,7 +88,7 @@ In the [Dictionnaire universel du pain](https://amzn.to/2SpxJ5A), Ludovic Salvo 
 
 According to Roland Feuillas, co-author of [&Agrave; la recherche du pain vivant](https://amzn.to/2RAgaj2), population wheats offer denser nutritive value, are more digestible, and rely on farming methods (e.g. organic and permaculture) that are more environmentally sustainable.
 
-![Source: Unsplash](/breadmagazine/assets/blog/wesual-click-431380-unsplash.jpg)
+![Source: Unsplash](/assets/blog/wesual-click-431380-unsplash.jpg)
 
 ## Grains: a matter of time and space
 

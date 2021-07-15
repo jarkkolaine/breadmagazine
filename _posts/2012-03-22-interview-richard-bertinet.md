@@ -31,7 +31,7 @@ and [Crust](http://amzn.to/2namJh7) which have been translated into many languag
 big inspiration for my baking, so I was honored to interview him for our first issue. We talked about bread,
 baking, and a bit about going from home baker to doing it for a living.
 
-![Richard Bertinet, Photo by Jean Cazals, from Crust by Richard Bertinet, Kyle Books](/breadmagazine/assets/blog/bread-1-bertinet2.jpg)
+![Richard Bertinet, Photo by Jean Cazals, from Crust by Richard Bertinet, Kyle Books](/assets/blog/bread-1-bertinet2.jpg)
 
 \*\*
 

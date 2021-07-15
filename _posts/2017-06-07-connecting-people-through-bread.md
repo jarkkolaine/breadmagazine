@@ -25,7 +25,7 @@ comments: []
 
 Bread is unique among foods: an everyday food with a wealth of meaning that goes well beyond its nutritional value.
 
-![Photo: Dirk Hoenes](/breadmagazine/assets/blog/vespers-550718-325x487.jpg)
+![Photo: Dirk Hoenes](/assets/blog/vespers-550718-325x487.jpg)
 
 Whether it is a slice of sourdough rye bread served with salmon soup in Helsinki or a pita bread filled with falafel in war-torn Aleppo, bread accompanies most meals around the world &mdash; today as it has done throughout recorded history.
 

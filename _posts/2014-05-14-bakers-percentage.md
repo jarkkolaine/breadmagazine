@@ -436,7 +436,7 @@ If hearing the word percentage scares you, you are not alone -- which is a shame
 
 To explain the idea at a glance, I have created this small infographic. I hope you'll find it useful:
 
-[![Baker's Percentage Cheat Sheet](/breadmagazine/assets/blog/bakers_percentage2-1280x918.jpg)](/breadmagazine/assets/blog/bakers_percentage2.jpg)
+[![Baker's Percentage Cheat Sheet](/assets/blog/bakers_percentage2-1280x918.jpg)](/assets/blog/bakers_percentage2.jpg)
 
 When I showed the card above to my brother, he suggested changing the word "percentage" into "fraction." I don't know if that would make it sound any less like math, but what it could do is make it clear that when speaking of baker's percentage, we are not talking of those pie charts where 100% is the full pie -- or in our case, the entire bread dough -- and each ingredient is a slice of that whole.
 

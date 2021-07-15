@@ -161,7 +161,7 @@ comments:
           in the United States". Om.'
 ---
 
-![Balloons](/breadmagazine/assets/blog/balloons.jpg)
+![Balloons](/assets/blog/balloons.jpg)
 
 One of the articles I am preparing for the [Summer issue of Bread](https://bread-magazine.com/issue/summer-2014/) (which comes out around the end of June) is an interview with _Phil Agnew_, the passionate amateur baker turned pro from Australia you may remember from his [beautiful blog](http://www.thefreshloaf.com/blog/pips) and [Instagram feed](http://instagram.com/pipsbread) \-\- and an interview in the [first ever issue of Bread](https://bread-magazine.com/issue/issue-1/).
 

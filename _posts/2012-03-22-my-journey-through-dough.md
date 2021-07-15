@@ -16,7 +16,7 @@ tags:
     - Richard Bertinet
 ---
 
-![My copy of Dough, with some bread](/breadmagazine/assets/blog/bread-1-dough.jpg)
+![My copy of Dough, with some bread](/assets/blog/bread-1-dough.jpg)
 
 I bought my copy of Richard Bertinet's book, [Dough](http://amzn.to/2p1GTqr), in July 2009.
 
@@ -46,7 +46,7 @@ was just about to bloom. And a couple of weeks later, I baked my lavender
 bread. While it didn't become my favorite in Dough, it was the most
 memorable one.
 
-![Dough book cover](/breadmagazine/assets/blog/bread-1-dough2.jpg)
+![Dough book cover](/assets/blog/bread-1-dough2.jpg)
 
 This book is an excellent introduction
 to bread making. In my family, I have seen many times how people pick up the

@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 
-![Bread Making](/breadmagazine/assets/blog/DSC_0017-1.jpg)
+![Bread Making](/assets/blog/DSC_0017-1.jpg)
 
 One of the articles in the [Spring 2014](https://bread-magazine.com/issue/spring-2014) issue of BREAD is an interview with Lionel Vatinet, master baker and owner of [La Farm](http://lafarmbakery.com), an artisan bakery in Cary, North Carolina.
 
