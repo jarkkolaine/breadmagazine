@@ -19,4 +19,6 @@ We celebrate the humble but ever important joys that come with bread: baking bre
 -   Controlling temperature in bread making, with real-life experiences from Sam Henley from Baltic Bakehouse and Jesse Merrill from Polestar Hearth.
 -   An interview with Rowan Walker, a bearded baker delivering his home made bagels to the fine people of Edinburgh.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition15.pdf](/assets/pdf/bread_edition15.pdf) (13.1 MB)

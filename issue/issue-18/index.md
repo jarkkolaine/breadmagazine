@@ -17,4 +17,6 @@ We celebrate bread: the communities built around it, the ways how it becomes a b
 -   Learn Bread Making, Fast: We all know bread is a craft and mastering it will take a lifetime (or a long time, anyways). But that shouldn’t mean you can’t get great early results quickly.
 -   A Baker’s Favorite Bread: Michele Dogati: Michele Dogati is in the middle of setting up a small bakery, Slow Bread Lab in Milan, Italy. In this article, he shares his favorite rye bread recipe.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition18.pdf](/assets/pdf/bread_edition18.pdf) (11.5 MB)

@@ -18,4 +18,6 @@ We all love a good loaf of bread — but in addition to this, bread can be a way
 -   How International Community Bakeries helps the poorest of poor build small bakeries.
 -   The One Mile Bakery has one strict principle: it will never deliver bread further than one mile from the bakery.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition7.pdf](/assets/pdf/bread_edition7.pdf) (9.1 MB)

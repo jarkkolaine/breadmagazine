@@ -18,4 +18,6 @@ We turn our attention to the final step in bread making: baking the bread, ovens
 -   A Christmas bread recipe.
 -   What happens when four brothers decide to build an oven without a plan?
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition4.pdf](/assets/pdf/bread_edition4.pdf) (13.8 MB)

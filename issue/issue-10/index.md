@@ -17,4 +17,6 @@ This issue will give you ideas that you can use when it’s time to create a bre
 -   An interview with Martin Johansson — a home baker and bread book author from Sweden — about writing books on bread and making it in the world of publishing.
 -   Luc Martin from Tilburg Sourdough comments on breads and questions submitted by readers.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition10.pdf](/assets/pdf/bread_edition10.pdf) (12.8 MB)

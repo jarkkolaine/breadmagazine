@@ -9,4 +9,7 @@ With baker interviews, a story about finding bread, and clear explanations of
 the basic principles of bread making, our first issue is an ode to bread and an
 introduction to the craft of baking.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition1.pdf](/assets/pdf/bread_edition1.pdf) (6.5 MB)
+

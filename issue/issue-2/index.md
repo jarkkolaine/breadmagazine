@@ -19,4 +19,6 @@ The second issue of Bread Magazine, published in 2012, is dedicated to flour: ho
 -   Introduction to home milling.
 -   Experiment: growing your own wheat (in a city apartment).
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition2.pdf](/assets/pdf/bread_edition2.pdf) (9.4 MB)

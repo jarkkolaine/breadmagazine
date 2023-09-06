@@ -19,4 +19,6 @@ This issue looks at the bread revolution or renaissance taking place around the 
 -   Raluca Micu’s experiences baking for her first Christmas fair.
 -   Ideas for New Year’s resolutions for bakers to adopt for 2015.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition14.pdf](/assets/pdf/bread_edition13.pdf) (20.1 MB)

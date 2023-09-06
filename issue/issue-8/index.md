@@ -19,4 +19,6 @@ This issue is all about bakers and bakeries: what leads people to still start ne
 -   Tips for making your bread softer.
 -   An interview with Ben MacKinnon — owner of the E5 Bakehouse in London — about bread, becoming a baker, and following your dreams.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition8.pdf](/assets/pdf/bread_edition8.pdf) (10.9 MB)

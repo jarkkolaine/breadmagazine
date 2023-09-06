@@ -18,4 +18,6 @@ The third issue of Bread Magazine explores the magical processes of fermentation
 -   Ideas for what to do with all the sourdough starter you can’t use for bread making.
 -   An interview with Mike Zakowski, bread making world championship silver medalist and exceptional baker from the slow city of Sonoma Valley, California.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition3.pdf](/assets/pdf/bread_edition3.pdf) (7.3 MB)

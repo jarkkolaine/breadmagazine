@@ -21,4 +21,6 @@ What do you do when you love to bake bread but can’t find a good excuse for ba
 -   Sprouting grains to make exciting new breads.
 -   A story of how renovating a house in the Finnish countryside turned into an adventure in baking naturally leavened bread.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition5.pdf](/assets/pdf/bread_edition5.pdf) (12 MB)

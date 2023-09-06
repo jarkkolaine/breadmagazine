@@ -18,4 +18,6 @@ We meet a cast of brave, obsessed even, bakers not afraid to follow their dreams
 -   Baguettes for Beginners: Let’s face it: we all want to make baguettes. But where to start if you are new to the best-known French bread of our times? Right here!
 -   Making a Dream Come True: Raluca Micu’s new bakery, October 26, is now four months old so we decided to chat with her and find out how everything is going so far.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition16.pdf](/assets/pdf/bread_edition16.pdf) (23.9 MB)

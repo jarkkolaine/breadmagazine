@@ -17,4 +17,6 @@ The issue approaches the craft of bread making with an eye on beginnings. It tak
 -   Bread begins as the farmer sows the seeds that will later become flour. Three farmers talk about the first steps in this process.
 -   A visit to Better Health Bakery, a bakery in London that gives a new beginnings to people recovering from mental illness by providing them a safe place to work.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition11.pdf](/assets/pdf/bread_edition11.pdf) (29.5 MB)

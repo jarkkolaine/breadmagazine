@@ -19,4 +19,6 @@ This issue combines many of our favorite things: presenting bakers from around t
 -   Nurhasanah Johari shares her experiences in running a subscription based micro bakery, Woodlands Sourdough, in her home in Singapore.
 -   Some outdoor bread making experiments to celebrate summer.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition12.pdf](/assets/pdf/bread_edition12.pdf) (19.3 MB)

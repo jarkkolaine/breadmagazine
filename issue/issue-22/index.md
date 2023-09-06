@@ -17,4 +17,6 @@ Growing grain to make bread. In this issue, we look into grain, farming, and wha
 -   Brian Lance: Reviving a baking heritage at the Asheville Bread Festival
 -   Barbara E. Caracciolo: Digging into sourdough culture with Ian Lowe
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition22.pdf](/assets/pdf/bread_edition22.pdf) (28.9 MB)

@@ -17,4 +17,6 @@ Flatbreads from all over the world — tortillas, pita, rieska, and so on. And a
 -   Dan McTiernan and Mick Saxton, both teachers in bread making, share their tips and experiences in teaching bread making.
 -   A recipe for the Finnish potato flatbread, rieska.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition6.pdf](/assets/pdf/bread_edition6.pdf) (15.5 MB)

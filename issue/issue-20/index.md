@@ -19,4 +19,6 @@ Artisanal Bread In the Marketplace, Microbes and Wheat, Buckwheat, Panettone, an
 -   **The Little Things That Sustain Us** Don Sadowsky takes you on a journey into the world of microbes, reporting on the most promising recent findings from microbiology labs and how they relate to wheat, bread and therefore our individual well-being.
 -   **Book Review**: Danielle Ellis reviews “Perfecting Sourdough” by Jane Mason.
 
-**Note**: The PDF downloads are coming up, please check back a bit later.
+## Download for free
+
+[bread_edition20.pdf](/assets/pdf/bread_edition20.pdf) (20.3 MB)
