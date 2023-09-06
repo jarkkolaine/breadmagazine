@@ -50,5 +50,3 @@ BREAD Magazine is distributed digitally _(and now, for free)_ as a beautiful,
 hand-crafted (just like we enjoy our breads) PDF document that you can download from
 this page.
 
-We also have a few print copies of issue 21 laying around... if you would like
-to have one, send us a note!
